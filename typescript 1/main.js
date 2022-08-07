@@ -1,0 +1,14 @@
+"use strict";
+exports.__esModule = true;
+var message = 'hii guys ';
+console.log(message);
+var a = 50;
+var b = 20;
+var sum;
+var title = 'Code';
+var isBeginner = true;
+var total = 0;
+var name = 'Ritesh';
+var sentance = 'My name is', $, name = (void 0).name;
+'I am a beginner in Typescript';
+console.log(sentance);
